@@ -1,1 +1,2 @@
 LICENCE for git
+try gitignore
